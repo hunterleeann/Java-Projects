@@ -1,3 +1,9 @@
+/************************
+Please note: this project contains custom classes created by my professor for learning purposes. 
+The professor's code is not included here. All code below was written by myself.   
+
+*************************/
+
 import java.io.File;
 import java.io.FileWriter;
 
